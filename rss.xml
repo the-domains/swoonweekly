@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Swoonweekly]]></title>
+        <description><![CDATA[Swoonweekly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Aug 2016 06:19:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bonjour Jubilation]]></title>
+            <description><![CDATA[<article><h1>Bonjour Jubilation</h1><p>I'll never forget my first manic episode, at least not my first full-blown one. That was the one that slapped me with the label "mentally ill" for the rest of the life. It was the one I'd spend years recovering from because it involved an involuntary hospitalization .</p><img src="http://i0.wp.com/www.bonjourjubilation.com/wp-content/uploads/2016/07/IMG_0650-2.jpg?resize=760%2C1017"></article>]]></description>
+            <link>http://www.bonjourjubilation.com/</link>
+            <guid isPermaLink="false">2f4d2bfb-cf68-4cb3-bf60-2b5143f39cf5</guid>
+            <pubDate>Mon, 29 Aug 2016 06:18:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
