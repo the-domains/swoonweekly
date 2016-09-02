@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8485051
+  lightness: 0.2234055
+  brandStrength: 0.8568194
+  brandColors:
+    - '#FFFFFF'
+    - '#EA01B4'
+    - '#D254BB'
+    - '#383838'
+    - '#F0A4EC'
+  rhythmicContrast: 0.4665924
+typography_spectrum: 0.2675439
+name: Swoonweekly
